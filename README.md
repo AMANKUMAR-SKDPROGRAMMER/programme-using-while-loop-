@@ -1,0 +1,2 @@
+# programme using while loop 
+ 
